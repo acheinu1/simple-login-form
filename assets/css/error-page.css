@@ -153,7 +153,7 @@ p{
 }
 
 /* XX Large screen*/
-@media (min-width: 1070px){
+@media (min-width: 1100px){
     h1{
         font-size: 10em;
         margin-bottom: 5%;
@@ -162,20 +162,21 @@ p{
 
     .content{
         width: 65vw;
-        /*height: 65vh;*/    
+        height: 75vh;    
     }
 
     p{
         /*line-height: 1.5em;*/
         font-size: 1.7em;
         padding: 0 5%;
+
     
     }
 
     button{
         padding: 2% 6%;
         font-size: 1.5em;
-        margin-top: 7%;
+        margin-top: -2%;
            
     }
 
